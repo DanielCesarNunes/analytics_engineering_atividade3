@@ -1,0 +1,9 @@
+
+
+============================== 2023-04-01 02:20:28.402662 | 92e22da1-0bb0-4ea3-af18-e83695eda6cb ==============================
+[0m02:20:28.402662 [info ] [MainThread]: Running with dbt=1.4.5
+[0m02:20:28.404678 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\DanielCesar\\.dbt', 'send_anonymous_usage_stats': True, 'quiet': False, 'no_print': False, 'cache_selected_only': False, 'project_name': 'shop', 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+[0m02:20:28.407146 [debug] [MainThread]: Tracking: tracking
+[0m02:20:28.502368 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000020C63A9F610>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000020C637BE450>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000020C63E9E610>]}
+[0m02:20:28.510362 [info ] [MainThread]: Creating dbt configuration folder at C:\Users\DanielCesar\.dbt
+[0m02:20:28.517829 [debug] [MainThread]: Starter project path: C:\Users\DanielCesar\AppData\Local\Programs\Python\Python311\Lib\site-packages\dbt\include\starter_project

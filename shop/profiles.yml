@@ -1,0 +1,13 @@
+shop: #
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: service-account
+      keyfile: C:\Users\DanielCesar\Desktop\atividades_analytics_engineering\dbt-shop-382400-edb9bcc7aa98.json
+      project: dbt-shop-382400
+      dataset: dbt_daniel
+      threads: 1
+      timeout_seconds: 300
+      locatio: US
+      priority: interactive
